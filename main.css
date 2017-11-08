@@ -1,15 +1,21 @@
-.header {
+body {
+    font-family: arial, sans-serif;
+}
 
+
+.header {
+background-color: #8b0000;
 }
 
 .tagline {
-
+background-color: #ffffff;
 }
 
 .skills {
-
+background-color: #ffffff;
 }
 
 .contact {
 
 }
+
